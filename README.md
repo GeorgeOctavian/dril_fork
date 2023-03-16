@@ -1,4 +1,7 @@
- **Due to a normalization bug the expert trajectories have lower performance than the [rl_baseline_zoo](<https://github.com/araffin/rl-baselines-zoo/blob/master/benchmark.md>) reported experts. Please see the following link in codebase for where the bug was fixed at.** [[link](<https://github.com/xkianteb/dril/blob/e244dcdfca042a3951e98a53864ead33ff6801fc/dril/generate_demonstration_data.py#L96>)]
+# This is a public extension of Disagreement-Regularized Imitation Learning
+
+
+**Due to a normalization bug the expert trajectories have lower performance than the [rl_baseline_zoo](<https://github.com/araffin/rl-baselines-zoo/blob/master/benchmark.md>) reported experts. Please see the following link in codebase for where the bug was fixed at.** [[link](<https://github.com/xkianteb/dril/blob/e244dcdfca042a3951e98a53864ead33ff6801fc/dril/generate_demonstration_data.py#L96>)]
 
 # Disagreement-Regularized Imitation Learning
 
